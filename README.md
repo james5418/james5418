@@ -9,7 +9,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash&logoColor=white)
+<!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash&logoColor=white) -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=james5418&theme=vue-dark&layout=compact&card_width=445)
 
