@@ -23,6 +23,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 - Database - 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 - Others - 
   ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&logo=android-studio&logoColor=white)
