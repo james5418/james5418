@@ -7,7 +7,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash&logoColor=white) -->
 
@@ -17,13 +17,20 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 ## Skills
 - Front-end - 
   ![Vue.js](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
+
 - Back-end - 
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
+  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
+
 - Database - 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
+
+- Testing - 
+  ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?&logo=mocha&logoColor=white) 
+  ![Chai](https://img.shields.io/badge/Chai-A30701?&logo=chai&logoColor=white)
+
 - Others - 
   ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&logo=android-studio&logoColor=white)
