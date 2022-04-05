@@ -11,8 +11,9 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash&logoColor=white) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=james5418&theme=vue-dark&layout=compact&card_width=445)
-
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=james5418&theme=vue-dark&layout=compact&card_width=445) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=james5418&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=james5418&theme=tokyonight)
 
 ## Skills
 - Front-end - 
