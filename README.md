@@ -9,6 +9,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash&logoColor=white) -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=james5418&theme=vue-dark&layout=compact&card_width=445) -->
@@ -22,6 +23,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 - Back-end - 
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
+  ![Gin](https://img.shields.io/badge/-Gin-00ADD8?link=https://github.com/gin-gonic/gin)
 
 - Database - 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
