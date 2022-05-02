@@ -10,6 +10,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
 ![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash&logoColor=white) -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=james5418&theme=vue-dark&layout=compact&card_width=445) -->
@@ -29,6 +30,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
 
 - Testing - 
   ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?&logo=mocha&logoColor=white) 
