@@ -36,7 +36,7 @@ I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
   ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?&logo=mocha&logoColor=white) 
   ![Chai](https://img.shields.io/badge/Chai-A30701?&logo=chai&logoColor=white)
 
-- Others - 
+- Tools - 
   ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&logo=android-studio&logoColor=white)
   ![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?&logo=Power%20BI&logoColor=white)
