@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a junior majoring in **CS** @ **National Yang Ming Chiao Tung University, Taiwan**
+I am a senior majoring in **CS** @ **National Yang Ming Chiao Tung University, Taiwan**
 
 ![](https://github-readme-stats.vercel.app/api?username=james5418&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
 
