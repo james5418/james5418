@@ -38,8 +38,8 @@ I am a senior majoring in **CS** @ **National Yang Ming Chiao Tung University, T
   ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)
   ![Drone CI](https://img.shields.io/badge/Drone_CI-212121?logo=drone&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?logo=githubactions&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
   ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)
+
 
 <!--
 **james5418/james5418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
