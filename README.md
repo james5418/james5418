@@ -1,23 +1,19 @@
-# Hi there 👋
+# Hi there👋, I'm Peng-Jui Wang
 
-I am a senior majoring in **CS** @ **National Yang Ming Chiao Tung University, Taiwan**
+### CS Student &nbsp;&&nbsp; Back-end Developer
 
-![](https://github-readme-stats.vercel.app/api?username=james5418&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
-
-## Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
-<!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?&logo=gnu-bash&logoColor=white) -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=james5418&theme=vue-dark&layout=compact&card_width=445) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=james5418&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=james5418&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=james5418&theme=tokyonight)
 
 ## Skills
+
+**Language**：
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+  ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?logo=go&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
 
 **Framework**：
   ![Vue.js](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff)
