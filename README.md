@@ -1,4 +1,4 @@
-# Hi there👋, I'm Peng-Jui Wang
+<h1 align="center">Hi there👋, I'm Peng-Jui Wang</h1>
 
 ### CS Student &nbsp;&&nbsp; Back-end Developer
 
