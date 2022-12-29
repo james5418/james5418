@@ -7,7 +7,7 @@
 
 ## Skills
 
-**Language**：
+**Languages**：
   ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
@@ -15,7 +15,7 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
   <!--   ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?logo=go&logoColor=white) -->
 
-**Framework**：
+**Frameworks**：
   ![FastAPI]( https://img.shields.io/badge/FastAPI-109989?logo=FASTAPI&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
@@ -24,23 +24,21 @@
   ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
   <!--   ![Gin](https://custom-icon-badges.herokuapp.com/badge/-Gin-00ADD8?logo=gin&logoColor=white) -->
 
-**Database**：
+**Databases**：
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 
-**Operation**： 
+ **Tools**： 
+  ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
   ![Drone CI](https://img.shields.io/badge/Drone_CI-212121?logo=drone&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white)
-
- **Tool**： 
-  ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)
 
 <!--
 **james5418/james5418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
