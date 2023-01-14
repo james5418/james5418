@@ -12,6 +12,7 @@
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white)
   <!--   ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?logo=go&logoColor=white) -->
 
@@ -39,18 +40,3 @@
   ![Drone CI](https://img.shields.io/badge/Drone_CI-212121?logo=drone&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white)
-
-<!--
-**james5418/james5418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
