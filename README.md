@@ -31,6 +31,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
+  ![Elastic](https://img.shields.io/badge/Elastic_Search-005571?logo=elasticsearch&logoColor=white)
 
  **Tools**： 
   ![git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
