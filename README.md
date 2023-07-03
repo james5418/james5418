@@ -8,7 +8,6 @@
 ## Skills
 
 **Languages**：
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
@@ -18,6 +17,7 @@
 
 **Frameworks**：
   ![FastAPI]( https://img.shields.io/badge/FastAPI-109989?logo=FASTAPI&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
