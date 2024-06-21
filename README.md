@@ -6,7 +6,7 @@
 
 ### CS Student & Backend Developer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=james5418&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=james5418&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=james5418&theme=tokyonight)
 
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=python,c,cpp,kotlin,js,ts,fastapi,flask,nodejs,express,graphql,react,next,androidstudio)
