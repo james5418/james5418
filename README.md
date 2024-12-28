@@ -9,4 +9,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=james5418&theme=tokyonight)
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=python,c,cpp,kotlin,js,ts,fastapi,flask,nodejs,express,graphql,react,next,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,js,ts,fastapi,flask,spring,nodejs,express,graphql,react,next)
