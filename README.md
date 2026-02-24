@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-### CS Student & Backend Developer
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=james5418&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=james5418&theme=tokyonight)
 
