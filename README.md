@@ -4,8 +4,4 @@
   </a>
 </h1>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=james5418&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=james5418&theme=tokyonight)
-
-## Skills
-![My Skills](https://skillicons.dev/icons?i=python,c,cpp,go,java,kotlin,js,ts,html,css,bash)
+![snake](https://raw.githubusercontent.com/james5418/james5418/output/snake.svg)
